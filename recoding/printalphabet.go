@@ -9,4 +9,6 @@ func PrintAlphabet() {
 		if 'a' <= 'z' || 'A' <= 'Z' {
 			return
 }
+func main() {
+	fmt.PrintAlphabet()
 }
